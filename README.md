@@ -1,6 +1,7 @@
 # WallBoard
 My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard 
-
+# Screenshots 
+![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")
 ## Features
 ##### Time
 Basically a glorified wall clock. It displays the current time (AM-PM) and the current date (Wednesday, June 24th)
@@ -13,8 +14,7 @@ Using the data from forcast.io it displays the future temperature in 2 hour incr
 ##### Video Background
 The new apple tv screensavers are amazing to look at. Thanks Benjamin Mayo for finding the links to the videos!  http://benjaminmayo.co.uk/watch-all-the-apple-tv-aerial-video-screensavers#b7-1
 
-# Screenshots 
-![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")
 
-![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")
+
+<!--![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")-->
 
