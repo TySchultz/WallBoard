@@ -2,6 +2,7 @@
 My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard of sorts. 
 Displays the current time, temperature, court schedule, and forcast. 
 # Screenshots 
+http://gph.is/29b7des
 ![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")
 ## Features
 ##### Time
