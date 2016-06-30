@@ -2,8 +2,9 @@
 My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard of sorts. 
 Displays the current time, temperature, court schedule, and forcast. 
 ## Screenshot
+![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")
 
-![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")
+<!--![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")-->
 
 ## Features
 ##### Time
@@ -19,5 +20,4 @@ The new apple tv screensavers are amazing to look at. Thanks Benjamin Mayo for f
 
 
 
-<!--![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")-->
 
