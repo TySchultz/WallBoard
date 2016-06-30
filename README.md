@@ -2,7 +2,7 @@
 My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard 
 
 ## Features
-### Time
+#### Time
 	- Weather 
 	- Court schedule
 	- Forcast  
