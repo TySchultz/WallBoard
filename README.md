@@ -1,9 +1,14 @@
-# MrWhite2
-tvOS game similar to smash the targets in super smash bros 
+# WallBoard
+My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard 
+
+## Features
+	- Time
+	- Weather 
+	- Court schedule
+	- Forcast  
 
 # Screenshots 
-![Alt text](ReadmeResources/failure.gif?raw=true "failure.gif")
+![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")
 
-![Alt text](ReadmeResources/screenshot1.png?raw=true "screenshot1.png")
+![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")
 
-![Alt text](ReadmeResources/screenshot2.png?raw=true "screenshot2.png")
