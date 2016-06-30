@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (3.0.1)
+  - EasyAnimation (1.0.5)
+  - HTMLReader (0.9.6)
+  - Kanna (1.0.6)
+  - Realm (1.0.1):
+    - Realm/Headers (= 1.0.1)
+  - Realm/Headers (1.0.1)
+  - RealmSwift (1.0.1):
+    - Realm (= 1.0.1)
+  - SwiftDate (3.0.8)
+  - SwiftMoment (0.5.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0.0)
+  - EasyAnimation
+  - HTMLReader (~> 0.9)
+  - Kanna
+  - RealmSwift
+  - SwiftDate
+  - SwiftMoment
+  - SwiftyJSON (~> 2.3.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 2457e1b2e6c46bb05c3a598c542b7bfd08893775
+  EasyAnimation: 32821f37dd39187e7364369a3d8f65d38405cf1d
+  HTMLReader: 7e21488ee378afc56ccade8af35840c4e03e434c
+  Kanna: 9f30945bbd293a609f698ea164687ccc0990ff60
+  Realm: 2e15e39d35b08abb529e212ed5d8af107b5236c8
+  RealmSwift: d73ea2af08c3676dbdd5e4b669651a0f492162a4
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  SwiftMoment: 469c0734b5d4d6631a15a91f8093cf436c3cbb7c
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 1556b886431eafb916413246e5a44380a3cd6a62
+
+COCOAPODS: 1.0.1
