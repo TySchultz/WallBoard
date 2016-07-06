@@ -2,7 +2,7 @@
 My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard of sorts. 
 Displays the current time, temperature, court schedule, and forcast. 
 ## Screenshot
-![Alt text](ReadmeResources/screenshot.png?raw=true "screenshot.png")
+![Alt text](ReadmeResources/screenshot1Wallboard.png?raw=true "screenshot1Wallboard.png")
 
 <!--![Alt text](ReadmeResources/gif.gif?raw=true "gif.gif")-->
 
